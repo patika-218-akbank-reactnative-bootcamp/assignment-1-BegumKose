@@ -1,1 +1,15 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8218046&assignment_repo_type=AssignmentRepo)
+# Instagram HomePage Clone Project in React Native
+This project was created in VS Code using React Native. 
+In this project, JavaScript was used. It includes stories, post and 
+actions of post.   
+Project includes:  
+  * Touchable like, message, comment, share and save icons
+  * Scrollable stories
+  * Pressable post icons, likes and comments.
+  ## Requirements
+    *Node.js
+    *React Native
+    *Others
+  
+ (P.S: For icons, react-native-vector-icons was tried to use, but because of installation problem it 
+ could not be used for now. )
